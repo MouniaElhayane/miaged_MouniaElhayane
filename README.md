@@ -20,7 +20,8 @@ US#2 : [MVP] Liste des activités => ✔️ Réalisé
 
 US#3 : [MVP] Détail d’une activité => ✔️ Réalisé
 
-![image](https://github.com/MouniaElhayane/miaged_MouniaElhayane/assets/100837729/18d037c8-f26b-4eb4-8100-4b2dfbf9cb66)
+![Capture d’écran 2024-03-15 à 01 01 25](https://github.com/MouniaElhayane/miaged_MouniaElhayane/assets/100837729/6c19d99a-5644-4a7b-b175-64c04df9294b)
+
 
 US#4 : [MVP] Le panier => ✔️ Réalisé
 

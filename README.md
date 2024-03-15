@@ -15,7 +15,7 @@ US#1 : [MVP] Interface de login => ✔️ Réalisé
 
 US#2 : [MVP] Liste des activités => ✔️ Réalisé
 
-![Capture d’écran 2024-03-15 à 01 00 24](https://github.com/MouniaElhayane/miaged_MouniaElhayane/assets/100837729/03db2447-1a3e-4219-9eea-2de331e0c4c9)
+![Capture d’écran 2024-03-15 à 01 01 25](https://github.com/MouniaElhayane/miaged_MouniaElhayane/assets/100837729/272cc68d-bbbd-4b95-a66f-b3d1ebd6820e)
 
 
 US#3 : [MVP] Détail d’une activité => ✔️ Réalisé

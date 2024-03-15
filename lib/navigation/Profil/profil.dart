@@ -11,7 +11,7 @@ class Profil extends StatefulWidget {
 }
 
 class _ProfilPageState extends State<Profil> {
-  TextEditingController emailController = TextEditingController(text: 'elmounia@gmail.com');
+  TextEditingController emailController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
   TextEditingController birthdayController = TextEditingController();
   TextEditingController addressController = TextEditingController();
@@ -71,14 +71,15 @@ class _ProfilPageState extends State<Profil> {
                 ),
                 SizedBox(height: 10),
                 TextFormField(
-                  controller: emailController,
-                  readOnly: true,
-                  decoration: InputDecoration(
-                    labelText: 'Email',
-                    hintText: 'elmounia@gmail.com',
-                    border: OutlineInputBorder(),
-                  ),
-                ),
+  controller: emailController,
+  readOnly: true,
+  decoration: InputDecoration(
+    labelText: 'Email',
+    border: OutlineInputBorder(),
+  ),
+),
+
+
                 SizedBox(height: 10),
                 TextFormField(
                   controller: passwordController,

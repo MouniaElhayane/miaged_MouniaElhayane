@@ -1,7 +1,6 @@
 // ignore_for_file: unnecessary_this
 
 import 'package:miaged/navigation/Activity/ChooseActivity.dart';
-import 'package:miaged/navigation/Products/acheter.dart';
 import 'package:miaged/navigation/Cart/panier.dart';
 import 'package:miaged/navigation/Profil/profil.dart';
 import 'package:flutter/material.dart';
